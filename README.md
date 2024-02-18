@@ -1,4 +1,4 @@
-README| List size  | Insertion sort  | Merge sort  | Timsort sorted  | Timsort sort
+| List size  | Insertion sort  | Merge sort  | Timsort sorted  | Timsort sort
 |----------- |---------------- |------------ |---------------- |--------------
 | Small      | 0.267337        | 0.0528615   | 0.000252084     | 0.00012775
 | Medium     | 0.997692        | 0.112492    | 0.000509375     | 0.000258458
